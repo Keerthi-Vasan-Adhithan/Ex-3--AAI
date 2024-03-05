@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: KEERTHI VASAN A</H3>
 <H3>ENTER YOUR REGISTER NO: 212222240048 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 26.02.2024</H3>
+<H3>DATE: 05.03.2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
